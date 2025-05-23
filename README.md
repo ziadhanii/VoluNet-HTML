@@ -52,7 +52,6 @@ Receive recognition for your volunteer contributions
 
 ## Application Links
 
-![Our Applications](volunteers.png)
 
 This landing page serves as an introduction to the Taw3ny platform. The complete application with all features is available through the following links:
 
@@ -88,7 +87,7 @@ The landing page is a static HTML/CSS/JS implementation and doesn't require any 
 
 We welcome your contributions and suggestions to improve the platform. You can contact us via:
 
-- Email: <VooluNet@gmail.com>
+- Email: <ziadhani64@gmail.com>
 - Phone: +20 1554530991
 - Location: Cairo, Egypt
 
