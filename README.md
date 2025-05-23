@@ -70,16 +70,10 @@ This repository contains a simple HTML landing page that can be run locally with
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/VoluNet.git
+git clone https://github.com/ziadhanii/VoluNet-HTML.git
 ```
 
-2. Navigate to the project folder:
-
-```bash
-cd VoluNet
-```
-
-3. Open the `index.html` file in your preferred browser.
+2. Open the `index.html` file in your preferred browser.
 
 The landing page is a static HTML/CSS/JS implementation and doesn't require any server setup or backend integration. To see the complete application with all features, please use the links in the "Application Links" section above.
 
