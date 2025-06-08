@@ -12,7 +12,7 @@ function Footer() {
                     <div className='text-white bg-neutral-700 py-2 px-3 rounded-full hover:bg-[#4E8DF5] hover:-translate-y-0.5 transition-all duration-300 ease hover:cursor-pointer'><i class="fa-brands fa-facebook"></i></div>
                     <div className='text-white bg-neutral-700 py-2 px-3 rounded-full hover:bg-[#4E8DF5] hover:-translate-y-0.5 transition-all duration-300 ease hover:cursor-pointer'><i class="fa-brands fa-twitter"></i></div>
                     <div className='text-white bg-neutral-700 py-2 px-3 rounded-full hover:bg-[#4E8DF5] hover:-translate-y-0.5 transition-all duration-300 ease hover:cursor-pointer'><i class="fa-brands fa-instagram"></i></div>
-                    <div className='text-white bg-neutral-700 py-2 px-3 rounded-full hover:bg-[#4E8DF5] hover:-translate-y-0.5 transition-all duration-300 ease hover:cursor-pointer'><i class="fa-brands fa-linkedin"></i></div>
+                    <div className='text-white bg-neutral-700 py-2 px-3 rounded-full hover:bg-[#4E8DF5] hover:-ntranslate-y-0.5 transition-all duration-300 ease hover:cursor-pointer'><i class="fa-brands fa-linkedin"></i></div>
                 </div>
             </div>
             <div>
